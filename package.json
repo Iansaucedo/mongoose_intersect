@@ -1,0 +1,25 @@
+{
+  "name": "mongoose_intersect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/profesorIS2020/mongoose_intersect.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/profesorIS2020/mongoose_intersect/issues"
+  },
+  "homepage": "https://github.com/profesorIS2020/mongoose_intersect#readme",
+  "dependencies": {
+    "mongoose": "^8.11.0",
+    "node-fetch": "^3.3.2"
+  }
+}
